@@ -1,0 +1,124 @@
+* {text-align: center}
+
+body {margin: 0; padding: 0;font-family: Arial, Helvetica, sans-serif; font-size:14px}
+
+header{background:linear-gradient(155deg, #071763 5%, #10279c, #4966f7 60%, #00bfff 80%); position:sticky;top:0}
+
+nav img{width:90px; height:90px;margin:6px}
+
+nav ul li{list-style:none;padding:10px; display:inline}
+
+a{text-decoration: none;color:#ff8080}
+
+
+
+ul{text-align:right}
+#title{padding:0;margin: 0;}
+.service {padding: 0;margin: 0;}
+
+
+footer
+{
+    background-color: rgb(78,78,78);color: #f1f514; text-align: start;
+}
+
+
+
+Dd figure img {padding:10px;margin:15}
+
+dt {text-align:start;margin:10px}
+dd figcaption {text-align: start;padding: 10; margin:10} figure {text-align:start}
+
+
+Dd a {text-align:start}
+
+.al {text-align:start;color:#f1f514}
+
+.fin{text-align:center}
+
+
+div figure img {width:400; height:400;padding:10px}
+div figure figcaption {text-align:start;padding:15px}
+
+.cata{border:14px #10279c solid;background:#fff; color:#242424;
+}
+
+
+.tel {text-align:start;color:#aaa}
+
+
+#kace{text-align:end}
+
+
+.indi{border: ridge 12px #071763;font-size:14px; text-align:start; padding:0}
+
+#cata
+{
+    animation: Klaz 6s infinite;color: #99fbff;
+}
+
+@keyframes Klaz
+{
+    0% {color:#99FBFF;}
+   6.2% {color:#80FAFF ;}
+    12.4%{color:#66F9FF;}
+   18.6% {color:#4CF8FF ;}
+   24.8% {color:#33F7FF;}
+    31%{color:#1FF6FF ;}
+    37.2%{color:#05F5FF;}
+    43.4%{color:#00E2EB;}
+   49.6% {color:#00B1B8;}
+    
+    
+    55.8%{color:#00E2EB;}
+   62% {color:#05F5FF;}
+   68.2% {color:#1FF6FF ;}
+   74.4% {color:#33F7FF ;}
+   80.6% {color:#4CF8FF ;}
+   86.8 {color:#66F9FF ;}
+   93% {color:#80FAFF ;}
+   99.2% {color:#99FBFF;}
+    
+}
+
+#indi {animation:indice 6s infinite;color:#ff9999}
+
+.i {animation:tri 3s infinite;color:#ff8080}
+
+@keyframes indice
+{
+    0% {color:#ff9999 ;}
+    6.2%{color:#ff8080 ;}
+    12.4%{color:#ff7a7a ;}
+    18.6%{color:#ff5757 ;}
+    24.8%{color:#ff3838 ;}
+    31%{color:#ff1a1a ;}
+    37.2%{color:#fa0000 ;}
+    43.4%{color:#d60000 ;}
+    49.6%{color:#b80000 ;}
+    
+   55.8% {color:#d60000 ;}
+    62%{color:#fa0000 ;}
+    68.2{color:#ff1a1a ;}
+   74.4% {color:#ff3838 ;}
+    80.6%{color:#ff5757 ;}
+    86.8{color:#ff7a7a ;}
+    93%{color:#ff8080 ;}
+   99.2% {color:#ff9999 ;}
+    
+}
+
+@keyframes tri
+{
+    0% {color:#ff8080 ;}
+    15% {color:#ff5757 ;}
+    30% {color:#ff0000 ;}
+    45% {color:#7a0000 ;}
+    
+    
+    65% {color:#ff0000 ;}
+    80%{color:#ff5757 ;}
+    95% {color:#ff8080;}
+}
+
+.al {color:#f1f514 ;}
