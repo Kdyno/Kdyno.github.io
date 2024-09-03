@@ -1,6 +1,6 @@
 * {text-align: center}
 
-body {margin: 0; padding: 0;font-family: Arial, Helvetica, sans-serif; font-size:14px}
+body {margin: 0; padding: 0;font-family: Arial, Helvetica, sans-serif; font-size:2em}
 
 header{background:linear-gradient(155deg, #071763 5%, #10279c, #4966f7 60%, #00bfff 80%); position:sticky;top:0}
 
